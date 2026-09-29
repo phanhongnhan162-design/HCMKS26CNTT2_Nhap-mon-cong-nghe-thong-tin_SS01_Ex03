@@ -1,0 +1,27 @@
+Phần 1: Phân tích và đề xuất giải pháp
+1.
+INPUT (Đầu vào) 
+ - Gõ link website (URL) hoặc click chuột          
+          
+ PROCESS (Xử lý) 
+ - Trình duyệt dịch mã (HTML, CSS, JavaScript)
+ - Dựng khung hình và tính toán hiển thị
+          
+          
+ OUTPUT (Đầu ra) 
+ • Trang web hiển thị lên màn hình
+ • Âm thanh phát ra loa (nếu có video/nhạc)
+
+Vị trí lưu trữ dữ liệu:
+Nằm trên RAM: Tab đang mở xem ngay trước mắt. Dữ liệu cần chạy tức thì nên đặt trên RAM để phản hồi nhanh, mượt.
+
+Để giải phóng RAM cần:
+1. Bật tính năng "Memory Saver" (Trình tiết kiệm bộ nhớ) tích hợp trong Chrome
+2. Đóng bớt tab Chrome không cần thiết
+3. End Task trình duyệt qua Task Manager
+
+Phần 2: triển khai
+CPU: 3%, bình thường(ổn định)
+RAM: 56%, ổn định, dung lượng còn trống nhiều
+Disk: 0%, rất tốt 
+
