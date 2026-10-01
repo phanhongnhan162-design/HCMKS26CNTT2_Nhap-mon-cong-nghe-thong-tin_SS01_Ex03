@@ -1,0 +1,28 @@
+Phần 1: Phân tích và đề xuất giải pháp
+1.
+INPUT (Đầu vào) 
+ - Gõ link website (URL) hoặc click chuột
+ - Dữ liệu sẽ nằm trên RAM     
+          
+ PROCESS (Xử lý) 
+ - Xử lí đường link để dẫn đến các trang ngôn ngữ như HTML, CSS, JavaScript,...
+ - Thực hiện các phép tính toán để tạo nên một website
+ - Dữ liệu sẽ nằm ở RAM         
+          
+ OUTPUT (Đầu ra) 
+ - Trang web hiển thị lên màn hình
+ - Âm thanh phát ra loa (nếu có video/nhạc)
+ - Các kết quả sẽ hiện ra màn hình
+ - Dữ liệu sẽ nằm ở RAM
+   
+
+
+Để giải phóng RAM cần:
+1. Bật tính năng "Memory Saver" (Trình tiết kiệm bộ nhớ) tích hợp trong Chrome
+2. Đóng bớt tab Chrome không cần thiết
+3. Khởi dộng lại máy để xóa các dữ liệu tạm thời
+
+Phần 2: triển khai
+CPU: 3%, bình thường(ổn định)
+RAM: 56%, ổn định, dung lượng còn trống nhiều
+Disk: 0%, rất tốt 
